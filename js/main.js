@@ -111,7 +111,12 @@ const ritualST = gsap.to(track, {
     pin: '.ritual__pin',
     scrub: 0.8,
     invalidateOnRefresh: true,
-    anticipatePin: 1
+    anticipatePin: 1,
+    snap: {
+      /* solo el final: si quedás cerca del cierre, lo acomoda para que el CTA no se pierda */
+      snapTo: (value) => value > .88 ? 1 : value,
+      duration: { min: .25, max: .6 }, delay: .05, ease: 'power2.inOut'
+    }
   }
 });
 /* cada foto se descubre al entrar en pantalla (dentro del track horizontal) */
