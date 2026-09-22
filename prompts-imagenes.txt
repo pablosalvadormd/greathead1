@@ -1,0 +1,125 @@
+GREAT HEAD · PROMPTS DE IMAGEN (v4)
+
+USO (flujo que sí funciona: el aparato no sale bien desde texto solo)
+PASO A · Conseguir el aparato correcto una sola vez.
+   Opción 1 (la más segura): EDITAR una foto real. Subir headspa-06.jpg o la foto del aparato sobre la camilla, y pedir:
+   "Keep the water arch device EXACTLY as it is: same shape, same position, same jets. Change only: recolor the metal to matte burnt orange, make the basin matte lavender, replace the room with a flat painted burnt-orange wall and a burgundy floor, remove the flowers, candles, bottles and everything else. Bright hard daylight, editorial photo."
+   Opción 2: generar la imagen 06 (The station, sin gente) adjuntando las 3 fotos de referencia.
+   Repetir hasta que el arco salga bien. Esa imagen es la REFERENCIA DE OBJETO para todo lo demás.
+PASO B · Cada escena: pegar PROMPT MAESTRO + DESCRIPCIÓN DEL HALO + bloque de la imagen, y adjuntar la imagen del paso A con la frase:
+   "Use the attached image as the exact reference for the water arch device and basin: same shape, same orientation, same colors. Do not redesign it."
+PASO C · Cuando salga una buena 03, adjuntarla también en las demás como referencia de estilo.
+Una sola imagen por generación.
+
+Referencias del aparato (solo forma; ignorar sus colores y ambientes):
+   /Users/pablo/Documents/Work/Great head/assets/competitors-v2/headspa-01.jpg
+   /Users/pablo/Documents/Work/Great head/assets/competitors-v2/headspa-03.jpg
+   /Users/pablo/Documents/Work/Great head/assets/competitors-v2/headspa-06.jpg
+
+
+==================================================
+PROMPT MAESTRO (colores + dirección general)
+==================================================
+
+STYLE — GREAT HEAD, a Japanese-style HEAD SPA in Miami. One editorial photography campaign, same photographer, same day. Single photograph, one frame only.
+
+THE SETTING: the client lies FULLY RECLINED, almost flat, on a padded treatment bed, head resting back into a shampoo basin. The therapist stands behind the head. This is NOT a hair salon: no upright styling chair, no mirror station, no scissors, no brushes, no blow-dryers, no cutting, no styling, no product shelves.
+
+DIRECTION: premium without being precious, fun without being childish, credible without being clinical. Confident, energetic, slightly irreverent, culturally current, like a bold fashion or lifestyle campaign, NOT like a spa. BRIGHT, not moody: hard direct daylight or one hard studio flash, crisp shadows, punchy flat color, no dim ambient gloom, no velvet darkness, no mist-and-candle atmosphere. Walls are FLAT, smooth, matte painted color blocks (a whole wall solid burnt orange, another solid burgundy), never textured plaster, never mottled, never draped. Medium-format editorial look, 80mm, gentle film grain, true skin tones, no HDR, no glow filters. Graphic, calm compositions with generous negative space for text. The arch of the water device, the round basin and round lights repeat a circle motif.
+
+WARDROBE (strict): the client is always dressed. A soft lavender or cream cape or garment covers shoulders and chest up to the collarbone. No bare backs, no bare shoulders, no towels as the only clothing, nothing sensual.
+
+COLORS (strict, and every frame must contain at least one large block of orange or burgundy): burnt orange #E54919 as a strong presence, a full painted wall, the treatment bed upholstery or a large towel; deep burgundy #411922 for a dark wall, floor, leather or shadows; soft lavender #C1C1E7 for the basin, tiles or the therapist's garment; warm cream #F0E4DB only as a secondary surface, never the whole scene; olive green #79701E as a tiny note if at all. No beige-only rooms, no white rooms, no teal, no neon, no purple LED light, no pink, no gold, no blue color grading.
+
+AVOID: hair salon of any kind; beige or white spa rooms; dark moody spa rooms, textured or mottled plaster walls, curtains, drapes, dim mood lighting; nudity or bare skin below the neck; lotus, candles, stacked white towels, bamboo, stones, white bathrobes, orchids, flowers, spa cliches; palm trees, flamingos, art deco, neon, Miami postcard cliches; kanji, torii, cherry blossoms, zen symbols; gloves, lab coats, clinical light; smiley faces; heavy makeup; cartoon or 3D render look; overly feminine styling; collage, split screen, multiple panels, grid, diptych, contact sheet; text, logos, signage, watermarks.
+
+OUTPUT: one single photorealistic editorial photograph, print quality.
+
+
+==================================================
+DESCRIPCIÓN DEL HALO (pegar siempre después del maestro)
+==================================================
+
+THE WATER ARCH DEVICE (exact shape, orientation and motion, do not reinvent, match the attached reference photos):
+SHAPE: a single thin ROUND metal tube, about 2 cm in diameter, bent into a smooth half-circle arch roughly 60 cm wide, like a horseshoe standing upright. Not a flat band, not a wide bar. Its two ends are hinged onto the left and right rims of the shampoo basin, just behind the client's head.
+ORIENTATION (critical): the client lies on their back with the head resting in the basin. The arch stands BEHIND the crown of the head, its plane perpendicular to the body, so seen from the foot of the basin it frames the top of the head like a halo. Its jets point only at the SCALP and HAIR from behind and above; they never touch the face. The face stays dry and calm.
+WATER: along the inside edge of the tube about 30 tiny nozzles shoot thin jets of warm water inward toward the crown, converging like the spokes of a wheel. The jets are lively spray, not rigid straight lines: they wobble, break into droplets, bounce off the hair, catch the light. No shower head, no hose, no single pouring stream, no closed ring, no arm from the ceiling.
+MOTION (critical): the arch is motorized and slowly rocks back and forth on its two hinges, sweeping the fan of jets across the whole scalp from the hairline to the nape, like a slow windshield wiper. In a photograph this reads as a slight motion blur on the arch, jets fanning at an angle, droplets flung sideways, mist and steam. It must look alive, not static.
+BASIN: a shallow shampoo basin with a padded neck rest, water draining, not a deep bowl of standing water. Round-edged, matte lavender ceramic.
+MATERIAL for Great Head: matte burnt-orange powder-coated metal tube (alternatively brushed chrome).
+ABSOLUTELY NO gloves on the therapist, no red or purple color cast, no water on the face.
+
+
+==================================================
+01 · THE READ  →  ritual-01.jpg  (3:4)
+==================================================
+
+IMAGE 01 — "THE READ". Vertical 3:4, one single photo. Before the water starts. A client lies fully reclined on a burnt-orange upholstered treatment bed, head resting back in the lavender basin, eyes closed. The therapist, standing behind the head in a lavender smock, parts the dry hair with both thumbs to examine the scalp, leaning in close. The burnt-orange water arch stands upright behind the crown, switched off, no water, catching one warm highlight along its curve. Burgundy wall behind, low ambient light, one warm hard light on the hands and scalp. Shot from the side at bed height so the arch reads as a clean half circle behind the head. Quiet, precise, intimate. Negative space upper right.
+
+
+==================================================
+02 · THE CLEANSE  →  ritual-02.jpg  (4:3)
+==================================================
+
+IMAGE 02 — "THE CLEANSE". Horizontal 4:3, one single photo. The client fully reclined, head back in the lavender basin, hair completely wet and dark, thick warm foam over the scalp. The therapist's two hands massage the foam with fingertips, forearms visible, lavender sleeves pushed up. The burnt-orange water arch rises behind the head with its thin converging jets running, rinsing the foam down. A large burnt-orange towel folded across the client's chest, burgundy leather bed, steam and sparkling droplets in the hard warm side light. Shot from the side at basin level, close. Eyes closed, mouth relaxed. Foam, hands and jets are the heroes.
+
+
+==================================================
+03 · THE HALO  →  ritual-03.jpg  (3:4)   *** GENERAR PRIMERO, ES LA REFERENCIA ***
+==================================================
+
+IMAGE 03 — "THE HALO". Vertical 3:4, one single photo. The signature image. Camera at the foot of the basin, slightly above, looking straight at the top of the client's head, exactly like the attached reference photos. The client lies on their back, face up and dry, eyes closed, serene, wet hair falling back into the shallow lavender basin. Behind the crown the thin burnt-orange metal arch stands upright and frames the head as a perfect half circle; from its inner edge about thirty thin jets fan inward onto the scalp, caught mid-sweep as the arch rocks slowly forward, droplets flung in the air, light mist, steam. The therapist's two bare hands come in from behind the arch, fingertips pressed into the wet scalp between the jets. One warm hard side light makes every jet sparkle against a deep burgundy wall. Concentric circles: arch, jets, head, basin. Graphic, hypnotic, calm, alive. This is the whole brand in one frame.
+
+
+==================================================
+04 · THE AFTERGLOW  →  ritual-04.jpg  (4:3)
+==================================================
+
+IMAGE 04 — "THE AFTERGLOW". Horizontal 4:3, one single photo. Treatment over. The client still on the burnt-orange treatment bed, now sitting halfway up on their elbows, hair wrapped in a burgundy towel, wearing a cream garment, looking slightly off camera with a small dazed happy half-smile, as if they just woke from the best nap of their life. Behind them the lavender basin and the burnt-orange water arch, switched off, a few drops still falling from its nozzles. Warm late light, burgundy wall, a round lamp partly in frame. Candid, loose, editorial. Negative space on the right.
+
+
+==================================================
+05 · THE ROOM  →  space-01.jpg  (4:5)
+==================================================
+
+IMAGE 05 — "THE ROOM". Vertical 4:5, one single photo, no people. Wide interior of the head-spa room. Two burnt-orange upholstered treatment beds, fully reclined, each ending in a lavender shampoo basin with its burnt-orange water arch standing upright behind it, both arches switched off, reading as two clean half circles. Deep burgundy back wall, warm terrazzo floor, round warm ceiling lights, one cream side wall. Symmetrical, graphic, quiet, architectural. Morning hard light entering from the side. Feels designed and playful, nothing like a salon or a clinic.
+
+
+==================================================
+06 · THE STATION  →  space-02.jpg  (3:4)
+==================================================
+
+IMAGE 06 — "THE STATION". Vertical 3:4, one single photo, no people. A single head-spa station as a product still: burnt-orange treatment bed, lavender basin at its head, and the burnt-orange water arch standing upright on the basin rim, shot from the front so the arch reads as a clean half circle with its thin jets running and sparkling. Cream wall behind, hard directional light casting one long clean shadow of the arch on the wall. Strong graphic composition, lots of negative space above.
+
+
+==================================================
+07 · HANDS  →  space-03.jpg  (1:1)
+==================================================
+
+IMAGE 07 — "HANDS". Square 1:1, one single photo. Macro: a therapist's two hands, palms up, held inside the water arch so the thin converging jets hit the fingers from all sides, droplets frozen mid-air, part of the burnt-orange arch curving through the frame, lavender basin below, burgundy background. Warm hard backlight making every jet glow. Abstract, tactile, almost sculptural. No face.
+
+
+==================================================
+08 · PRODUCT  →  space-04.jpg  (4:5)
+==================================================
+
+IMAGE 08 — "PRODUCT". Vertical 4:5, one single photo. Still life on a burnt-orange plaster ledge against a burgundy wall: three unlabeled matte bottles with round caps, one cream, one lavender, one burgundy, and a small lavender ceramic bowl with warm water and a wooden scalp massage tool resting in it. No text on anything. Hard sunlight from the right, long shadows, minimalist, graphic. Modern skincare campaign feel, not a spa, not a salon.
+
+
+==================================================
+09 · AFTER  →  space-05.jpg  (16:10)
+==================================================
+
+IMAGE 09 — "AFTER". Horizontal 16:10, one single photo. Two clients, a man and a woman, stepping out of the space into the street, backs mostly to camera, hair freshly washed and loose, light bounce in their step, laughing at something. Burnt-orange storefront wall with a burgundy door frame, warm late light, could be any city: no palms, no beach, no neon. Candid, motion, a little blur. Wide negative space on the left for text.
+
+
+==================================================
+MODELO
+==================================================
+
+- Nano Banana Pro para toda la serie, siempre con las tres fotos del halo adjuntas como referencia de objeto. Es el modelo que mejor respeta la geometría de un objeto de referencia.
+- Generar primero la 03. Cuando salga una buena, adjuntarla también en las otras ocho como referencia de estilo.
+- Si el arco sale girado o pegándole a la cara, agregar al final: "The arch stands BEHIND the crown, perpendicular to the body; jets hit only the scalp, the face stays dry." Si sale rígido: "The arch is mid-motion, rocking on its hinges, jets fanning with droplets flying."
+- Si salen guantes o tinte rojo: agregar "bare hands, no gloves" y "neutral warm white balance, no red cast" al final.
+- Si la piel o el grano quedan demasiado limpios: probar Flux 2 Pro o Seedream 4.5 en la 03 y la 04 y comparar.
+- Evitar GPT Image para esta serie.
